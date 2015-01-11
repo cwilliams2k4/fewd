@@ -1,0 +1,45 @@
+body {
+	background-color: #523640;
+	color: #000;
+	font-size: 20px;
+	margin:40px;
+	border: 1px solid;
+	padding: 20px;
+}
+
+header {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+h1 {
+	font-style: italic;
+}
+
+h2 {
+	font-weight: bolder;
+}
+
+h4 {
+	color: #33ddff;
+}
+
+a {
+	font-weight:bold;
+	color: #300101;
+}
+
+img {
+	display: block;
+	float: right;
+	margin:10px;
+	border: 1px solid;
+	padding: 3px;
+}
